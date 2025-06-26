@@ -1,3 +1,5 @@
+<img src="screenshot.png" alt="Screenshot" width="512">
+    
 # rusty-wx
 
 [Iced](https://iced.rs/) based weather application targeting [Cosmic](https://system76.com/cosmic/) and other compatible desktop environments.
