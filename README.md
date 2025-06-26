@@ -5,7 +5,7 @@
 
 ## Development
 
-Unofficial guide to Iced: https://jl710.github.io/iced-guide/
+Unofficial guide to Iced: https://jl710.github.io/iced-guide/  
 API reference: https://docs.iced.rs/iced/
 
 [Zed](https://zed.dev) is a recommended IDE
