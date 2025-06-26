@@ -1,4 +1,3 @@
-<img src="screenshot.png" alt="Screenshot" width="512">
     
 # rusty-wx
 
@@ -32,3 +31,7 @@ Or install permanently:
 ```bash
 cargo install --path .
 ```
+
+## Screenshot
+
+<img src="screenshot.png" alt="Screenshot" width="400">
